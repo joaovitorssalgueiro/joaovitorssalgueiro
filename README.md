@@ -23,6 +23,6 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,mongodb,&perline=6"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,aftereffects,&perline=6"/>
 
 
