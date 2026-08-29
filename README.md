@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o João Vitor 👋</h1>
 
-<!--
-**joaovitorssalgueiro/joaovitorssalgueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desenvolvedor • 🐘 Estudando PHP • 🚀 Criando projetos
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=120&section=header"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+- 💻 Desenvolvedor
+- 🐘 Atualmente estudando PHP
+- 🚀 Desenvolvendo projetos próprios
+- 📚 Sempre aprendendo novas tecnologias
+- 🎨 Aprendendo edição de videos
+- 🧩 Gosto de criar e experimentar ideias novas
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,mongodb,&perline=6"/>
+
+</p>
